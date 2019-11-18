@@ -4,8 +4,7 @@
 * スレッドの各コメントの背景色を付けることで、見やすくします。
 * コメントの親子で背景色を変えているので、会話の先頭が見やすくなっています。
 
-<img src="https://user-images.githubusercontent.com/8399688/69028318-f7b9e400-0a14-11ea-9e17-d300cf9063e9.png" width="300px">
-<img src="https://user-images.githubusercontent.com/8399688/69029856-6ef17700-0a19-11ea-8caa-5177baccf0d1.png" width="300px">
+<img src="https://user-images.githubusercontent.com/8399688/69028318-f7b9e400-0a14-11ea-9e17-d300cf9063e9.png" width="550px"><img src="https://user-images.githubusercontent.com/8399688/69029856-6ef17700-0a19-11ea-8caa-5177baccf0d1.png" width="170px">
 
 
 # 設定方法
